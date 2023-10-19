@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pf38k9pm/g/S6gPR5hqAt/ntuKKxZQYgCkk36NZiexp6f4S6j/HJC/gI7RgWf4t7OPZii8TNjv5v2AEx3tAmOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klsadmin\\source\\repos\\testsqlfill\\testsqlfill\\testsqlfill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klsadmin\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}

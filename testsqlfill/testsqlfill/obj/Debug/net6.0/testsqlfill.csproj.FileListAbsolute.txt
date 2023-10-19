@@ -1,0 +1,17 @@
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.csproj.AssemblyReference.cache
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.AssemblyInfoInputs.cache
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.AssemblyInfo.cs
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.csproj.CoreCompileInputs.cache
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\bin\Debug\net6.0\testsqlfill.exe
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\bin\Debug\net6.0\testsqlfill.deps.json
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\bin\Debug\net6.0\testsqlfill.runtimeconfig.json
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\bin\Debug\net6.0\testsqlfill.dll
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\bin\Debug\net6.0\testsqlfill.pdb
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.csproj.CopyComplete
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.dll
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\refint\testsqlfill.dll
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.pdb
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\testsqlfill.genruntimeconfig.cache
+C:\Users\klsadmin\source\repos\testsqlfill\testsqlfill\obj\Debug\net6.0\ref\testsqlfill.dll
